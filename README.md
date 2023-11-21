@@ -6,7 +6,7 @@ I'm a passionate [Your Profession or Field] with a keen interest in [Your Intere
 
 ## 🚀 About Me
 
-- 🔭 Currently working @ <a>Datamicron</a> as a Data Analyst
+- 🔭 Currently working @ [Datamicron](https://datamicron.com/) as a Data Analyst
 - 🌱 I’m currently learning [Technologies/Topics of Interest]
 - 💬 Ask me about [Anything you're knowledgeable about]
 - 📫 How to reach me: [Your Email Address or Social Media Profiles]
