@@ -2,26 +2,26 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alprooo&color=7342b3)
 
-I'm a passionate [Your Profession or Field] with a keen interest in [Your Interests]. Welcome to my GitHub profile! Here you'll find a collection of projects and contributions that reflect my skills and interests.
+I'm a passionate professional with expertise in web development, data analysis, and web design. Welcome to my GitHub profile! Here you'll find a collection of projects and contributions that showcase my skills and enthusiasm for these fields.
 
 ## 🚀 About Me
 
-- 🔭 Currently working @ [Datamicron](https://datamicron.com/) as a Data Analyst
-- 🌱 I’m currently learning [Technologies/Topics of Interest]
-- 💬 Ask me about [Anything you're knowledgeable about]
-- 📫 How to reach me: [Your Email Address or Social Media Profiles]
+- 🔭 Currently working @ [Datamicron](https://datamicron.com/) as a Business Data Analyst
+<!-- - 🌱 I’m currently learning [Technologies/Topics of Interest] -->
+<!-- - 💬 Ask me about [Anything you're knowledgeable about] -->
+<!-- - 📫 How to reach me: [Your Email Address or Social Media Profiles] -->
 
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools that I'm familiar with:
 
-![Tech1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)
-![Tech2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)
+![VueJS](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)
+![NextJS](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)
 <!-- Add more as needed -->
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alprooo&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
 
 ## 🌐 Connect with Me
 
