@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Alfian R. Saputra]!
+# 👋 Hello, I'm Alfian!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alprooo&color=blue)
 
