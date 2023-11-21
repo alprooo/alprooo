@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Alfian!
 
-![Profile Views](https://komarev.com/ghpvc/?username=alprooo&color=40077d)
+![Profile Views](https://komarev.com/ghpvc/?username=alprooo&color=7342b3)
 
 I'm a passionate [Your Profession or Field] with a keen interest in [Your Interests]. Welcome to my GitHub profile! Here you'll find a collection of projects and contributions that reflect my skills and interests.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Datamicron Systems Sdn Bhd as Data Analyst
+- 🔭 currently working @ Datamicron as Data Analyst
 - 🌱 I’m currently learning [Technologies/Topics of Interest]
 - 💬 Ask me about [Anything you're knowledgeable about]
 - 📫 How to reach me: [Your Email Address or Social Media Profiles]
