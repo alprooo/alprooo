@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Alfian R. Saputra]!
 
-![Profile Views](https://komarev.com/ghpvc/?username=alprooo&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=alprooo&color=lightblue)
 
 I'm a passionate [Your Profession or Field] with a keen interest in [Your Interests]. Welcome to my GitHub profile! Here you'll find a collection of projects and contributions that reflect my skills and interests.
 
