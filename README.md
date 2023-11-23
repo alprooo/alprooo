@@ -31,9 +31,6 @@ Here are some of the technologies and tools that I'm familiar with:
     </a>
 </p>
 
-![VueJS] (https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)
-![NextJS] (https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)
-<!-- Add more as needed -->
 
 ## 📊 Languages and Tools:
 
