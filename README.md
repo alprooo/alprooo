@@ -16,7 +16,7 @@ I'm a passionate professional with expertise in web development, data analysis, 
 
 Here are some of the technologies and tools that I'm familiar with:
 ### Data Visualization
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-around;">
     <div style="text-align: center;">
         <img src="https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8" alt="Insta BI" width="100">
         <p>Insta BI</p>
@@ -34,6 +34,7 @@ Here are some of the technologies and tools that I'm familiar with:
         <p>Microstrategy</p>
     </div>
 </div>
+
 
 ![VueJS](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)
