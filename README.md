@@ -31,14 +31,6 @@ Here are some of the technologies and tools that I'm familiar with:
     </a>
 </p>
 
-![insta-bi](https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8){: style="margin-right: 10px;"}
-![tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png){: style="margin-right: 10px;"}
-![power-bi](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png){: style="margin-right: 10px;"}
-![microstrategy](https://companieslogo.com/img/orig/MSTR-f353cb0d.png?t=1681199148){: style="margin-right: 10px;"}
-
-
-
-
 ![VueJS](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)
 <!-- Add more as needed -->
