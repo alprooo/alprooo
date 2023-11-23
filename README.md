@@ -17,19 +17,19 @@ I'm a passionate professional with expertise in web development, data analysis, 
 Here are some of the technologies and tools that I'm familiar with:
 ### Data Visualization
 <div style="display: flex; justify-content: space-around;">
-    <div style="text-align: center;">
+    <div style="text-align: left;">
         <img src="https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8" alt="Insta BI" width="100">
         <p>Insta BI</p>
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: left;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="Tableau" width="100">
         <p>Tableau</p>
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: left;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Power BI" width="100">
         <p>Power BI</p>
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: left;">
         <img src="https://companieslogo.com/img/orig/MSTR-f353cb0d.png?t=1681199148" alt="Microstrategy" width="100">
         <p>Microstrategy</p>
     </div>
