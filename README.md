@@ -82,17 +82,16 @@ Here are some of the technologies and tools that I'm familiar with:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Portfolio/Blog](Your Portfolio or Blog Link)
+- [LinkedIn](https://www.linkedin.com/in/alfianrsa/)
+- [Twitter](https://twitter.com/alfianrsa)
 
 ## 🌟 Featured Repositories
 
-Here are some of my notable repositories:
+<!-- Here are some of my notable repositories:
 
 - [Repo1 Name](Link to Repo1)
 - [Repo2 Name](Link to Repo2)
-<!-- Add more as needed -->
+Add more as needed -->
 
 ## 🤝 Contributing
 
