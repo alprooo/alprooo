@@ -36,16 +36,16 @@ Here are some of the technologies and tools that I'm familiar with:
 </div>
 <p align="left">
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8" alt="insta-bi" width="40" height="40" />
+        <img src="https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8" alt="insta-bi" width="40" height="40" style="margin-right:10px"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="tableu" width="120" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="tableu" width="120" height="40" style="margin-right:10px"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="power-bi" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="power-bi" width="40" height="40" style="margin-right:10px"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://companieslogo.com/img/orig/MSTR-f353cb0d.png?t=1681199148" alt="microstrategy" width="40" height="40" />
+        <img src="https://companieslogo.com/img/orig/MSTR-f353cb0d.png?t=1681199148" alt="microstrategy" width="40" height="40" style="margin-right:10px"/>
     </a>
 </p>
 
