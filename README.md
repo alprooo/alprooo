@@ -31,7 +31,7 @@ Here are some of the technologies and tools that I'm familiar with:
     </a>
 </p>
 
-### 📊 Languages and Framework:
+### Languages and Framework:
 <h3 align="left"></h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -39,9 +39,6 @@ Here are some of the technologies and tools that I'm familiar with:
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
@@ -85,13 +82,13 @@ Here are some of the technologies and tools that I'm familiar with:
 - [LinkedIn](https://www.linkedin.com/in/alfianrsa/)
 - [Twitter](https://twitter.com/alfianrsa)
 
-## 🌟 Featured Repositories
+<!-- ## 🌟 Featured Repositories
 
 <!-- Here are some of my notable repositories:
 
 - [Repo1 Name](Link to Repo1)
 - [Repo2 Name](Link to Repo2)
-Add more as needed -->
+Add more as needed --> -->
 
 ## 🤝 Contributing
 
