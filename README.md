@@ -16,38 +16,21 @@ I'm a passionate professional with expertise in web development, data analysis, 
 
 Here are some of the technologies and tools that I'm familiar with:
 ### Data Visualization
-<div style="display: flex; justify-content: space-around;">
-    <div style="text-align: left;">
-        <img src="https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8" alt="Insta BI" width="100">
-        <p>Insta BI</p>
-    </div>
-    <div style="text-align: left;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="Tableau" width="100">
-        <p>Tableau</p>
-    </div>
-    <div style="text-align: left;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Power BI" width="100">
-        <p>Power BI</p>
-    </div>
-    <div style="text-align: left;">
-        <img src="https://companieslogo.com/img/orig/MSTR-f353cb0d.png?t=1681199148" alt="Microstrategy" width="100">
-        <p>Microstrategy</p>
-    </div>
-</div>
 <p align="left">
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8" alt="insta-bi" width="40" height="40" style="margin-right:10px"/>
+        <img src="https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8" alt="insta-bi" width="40" height="40" style="margin: 0 10px 0 0;"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="tableu" width="120" height="40" style="margin-right:10px"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="tableau" width="120" height="40" style="margin: 0 10px 0 0;"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="power-bi" width="40" height="40" style="margin-right:10px"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="power-bi" width="40" height="40" style="margin: 0 10px 0 0;"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://companieslogo.com/img/orig/MSTR-f353cb0d.png?t=1681199148" alt="microstrategy" width="40" height="40" style="margin-right:10px"/>
+        <img src="https://companieslogo.com/img/orig/MSTR-f353cb0d.png?t=1681199148" alt="microstrategy" width="40" height="40" style="margin: 0 10px 0 0;"/>
     </a>
 </p>
+
 
 
 ![VueJS](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)
