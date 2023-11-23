@@ -17,31 +17,22 @@ I'm a passionate professional with expertise in web development, data analysis, 
 Here are some of the technologies and tools that I'm familiar with:
 ### Data Visualization
 <div style="display: flex; justify-content: space-between;">
-
-    <!-- Column 1 -->
     <div style="text-align: center;">
-        <img src="insta_bi_image_url" alt="Insta BI" width="100">
+        <img src="https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8" alt="Insta BI" width="100">
         <p>Insta BI</p>
     </div>
-
-    <!-- Column 2 -->
     <div style="text-align: center;">
-        <img src="tableau_image_url" alt="Tableau" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="Tableau" width="100">
         <p>Tableau</p>
     </div>
-
-    <!-- Column 3 -->
     <div style="text-align: center;">
-        <img src="power_bi_image_url" alt="Power BI" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Power BI" width="100">
         <p>Power BI</p>
     </div>
-
-    <!-- Column 4 -->
     <div style="text-align: center;">
-        <img src="microstrategy_image_url" alt="Microstrategy" width="100">
+        <img src="https://companieslogo.com/img/orig/MSTR-f353cb0d.png?t=1681199148" alt="Microstrategy" width="100">
         <p>Microstrategy</p>
     </div>
-
 </div>
 
 ![VueJS](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)
