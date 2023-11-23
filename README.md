@@ -16,7 +16,7 @@ I'm a passionate professional with expertise in web development, data analysis, 
 
 Here are some of the technologies and tools that I'm familiar with:
 ### Data Visualization
-<p align="left">
+<p align="left" style="margin-right:20px">
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8" alt="insta-bi" width="40" height="40" />
     </a>
