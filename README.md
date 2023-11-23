@@ -31,9 +31,7 @@ Here are some of the technologies and tools that I'm familiar with:
     </a>
 </p>
 
-
-## 📊 Languages and Tools:
-
+### 📊 Languages and Framework:
 <h3 align="left"></h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
