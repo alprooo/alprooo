@@ -39,7 +39,7 @@ Here are some of the technologies and tools that I'm familiar with:
         <img src="https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8" alt="insta-bi" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="tableu" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="tableu" width="100" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="power-bi" width="40" height="40" />
