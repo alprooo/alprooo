@@ -1,6 +1,7 @@
-# 👋 Hello, I'm Alfian!
+<h1 align="center">Hi! It's me Alfian</h1> 
 
-![Profile Views](https://komarev.com/ghpvc/?username=alprooo&color=7342b3)
+<!-- this code to view profile visit -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=alprooo&color=7342b3) -->
 
 I'm a passionate professional with expertise in web development, data analysis, and web design. Welcome to my GitHub profile! Here you'll find a collection of projects and contributions that showcase my skills and enthusiasm for these fields.
 
@@ -14,6 +15,34 @@ I'm a passionate professional with expertise in web development, data analysis, 
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools that I'm familiar with:
+### Data Visualization
+<div style="display: flex; justify-content: space-between;">
+
+    <!-- Column 1 -->
+    <div style="text-align: center;">
+        <img src="insta_bi_image_url" alt="Insta BI" width="100">
+        <p>Insta BI</p>
+    </div>
+
+    <!-- Column 2 -->
+    <div style="text-align: center;">
+        <img src="tableau_image_url" alt="Tableau" width="100">
+        <p>Tableau</p>
+    </div>
+
+    <!-- Column 3 -->
+    <div style="text-align: center;">
+        <img src="power_bi_image_url" alt="Power BI" width="100">
+        <p>Power BI</p>
+    </div>
+
+    <!-- Column 4 -->
+    <div style="text-align: center;">
+        <img src="microstrategy_image_url" alt="Microstrategy" width="100">
+        <p>Microstrategy</p>
+    </div>
+
+</div>
 
 ![VueJS](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)
@@ -23,7 +52,7 @@ Here are some of the technologies and tools that I'm familiar with:
 
 <h3 align="left"></h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration:none">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -67,7 +96,7 @@ Here are some of the technologies and tools that I'm familiar with:
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alprooo&show_icons=true&theme=light&locale=en&layout=compact" alt="rinaldiihsan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alprooo&show_icons=true&theme=light&locale=en&layout=compact" alt="alprooo" /></p>
 
 ## 🌐 Connect with Me
 
