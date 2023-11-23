@@ -19,6 +19,7 @@ Here are some of the technologies and tools that I'm familiar with:
 <p align="left">
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://play-lh.googleusercontent.com/FMfJWz2iWqBqh6PjPz0XBpMGIHJszfme-xsSka6a2aHVrq_0S0hcTqIOuYvj57OqmM8" alt="insta-bi" width="40" height="40" style="margin: 0 10px 0 0;"/>
+        Insta BI
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="tableau" width="120" height="40" style="margin: 0 10px 0 0;"/>
