@@ -74,7 +74,6 @@ Here are some of the technologies and tools that I'm familiar with:
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
 </p> -->
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="64" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="64" alt="css3 logo"  />
@@ -85,7 +84,7 @@ Here are some of the technologies and tools that I'm familiar with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="64" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="64" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="64" alt="mongodb logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="64" alt="mysql logo"  /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="64" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="64" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="64" alt="firebase logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" width="64" alt="illustrator logo"  />
@@ -97,11 +96,9 @@ Here are some of the technologies and tools that I'm familiar with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="50" width="64" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="64" alt="vscode logo"  />
 </div>
-
+<div align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alprooo&show_icons=true&theme=light&locale=en&layout=compact" alt="alprooo" /></p>
-
-
-<br>
+</div>
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alfianrsa/)
@@ -114,7 +111,7 @@ Here are some of the technologies and tools that I'm familiar with:
 - [Repo1 Name](Link to Repo1)
 - [Repo2 Name](Link to Repo2)
 Add more as needed -->
-<br>
+
 ## 🤝 Contributing
 If you find any issues or have suggestions for improvement in any of my repositories, feel free to open an issue or submit a pull request. I appreciate your contributions!
 
