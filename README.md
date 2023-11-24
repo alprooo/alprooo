@@ -101,7 +101,7 @@ Here are some of the technologies and tools that I'm familiar with:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alprooo&show_icons=true&theme=light&locale=en&layout=compact" alt="alprooo" /></p>
 
 
-
+<br>
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alfianrsa/)
@@ -114,7 +114,7 @@ Here are some of the technologies and tools that I'm familiar with:
 - [Repo1 Name](Link to Repo1)
 - [Repo2 Name](Link to Repo2)
 Add more as needed -->
-
+<br>
 ## 🤝 Contributing
 If you find any issues or have suggestions for improvement in any of my repositories, feel free to open an issue or submit a pull request. I appreciate your contributions!
 
