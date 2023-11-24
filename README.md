@@ -96,7 +96,7 @@ Here are some of the technologies and tools that I'm familiar with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="64" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="50" width="64" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="64" alt="vscode logo"  />
-
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alprooo&show_icons=true&theme=light&locale=en&layout=compact" alt="alprooo" /></p>
 
