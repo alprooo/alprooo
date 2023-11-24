@@ -33,7 +33,7 @@ Here are some of the technologies and tools that I'm familiar with:
 
 ### Languages and Framework:
 <!-- <h3 align="left"></h3> -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
   </a>
@@ -73,7 +73,7 @@ Here are some of the technologies and tools that I'm familiar with:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="64" alt="html5 logo"  />
@@ -98,7 +98,7 @@ Here are some of the technologies and tools that I'm familiar with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="64" alt="vscode logo"  />
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alprooo&show_icons=true&theme=light&locale=en&layout=compact" alt="alprooo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alprooo&show_icons=true&theme=light&locale=en&layout=compact" alt="alprooo" /></p>
 
 ## 🌐 Connect with Me
 
