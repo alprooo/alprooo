@@ -55,23 +55,3 @@ Here are some of the technologies and tools that I'm familiar with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="64" alt="vscode logo"  />
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alprooo&show_icons=true&theme=light&locale=en&layout=compact" alt="alprooo" /></p>
-
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/alfianrsa/)
-- [Twitter](https://twitter.com/alfianrsa)
-
-<!-- ## 🌟 Featured Repositories
-
-<!-- Here are some of my notable repositories:
-
-- [Repo1 Name](Link to Repo1)
-- [Repo2 Name](Link to Repo2)
-Add more as needed -->
-
-## 🤝 Contributing
-If you find any issues or have suggestions for improvement in any of my repositories, feel free to open an issue or submit a pull request. I appreciate your contributions!
-
-## ❤️ Support
-If you find my work helpful or interesting, consider giving it a ⭐️. It keeps me motivated!
-
-Thank you for visiting my profile! 😊
