@@ -17,7 +17,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-
+          
           # User to compute metrics
           # Defaults to the owner of "token"
           user: alprooo
@@ -109,3 +109,6 @@ jobs:
           plugin_stargazers: yes
           # plugin_tweets: yes
           # plugin_tweets_limit: 2
+output_action: commit
+output_action_commit_message: "chore: update GitHub metrics"
+output_action_filename: github-metrics.svg
