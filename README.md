@@ -1,1 +1,1 @@
-![Metrics](https://github.com/khawarizmus/khawarizmus/blob/master/github-metrics.svg)
+![Metrics](https://github.com/alprooo/alprooo/blob/master/github-metrics.svg)
