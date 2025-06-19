@@ -2,15 +2,22 @@ name: Metrics
 on:
   push:
     branches: [main]
+  # You can enable schedule later if you want automatic updates:
+  # schedule:
+  #   - cron: "0 0 * * *"
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 🚀 Allows the workflow to commit/push generated files
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+
           user: alprooo
           template: classic
           base: header, activity, community, repositories, metadata
@@ -35,7 +42,6 @@ jobs:
           plugin_stars_limit: 5
           plugin_stargazers: yes
 
-          # Make sure metrics file is saved and committed
           output_action: commit
           output_action_commit_message: "chore: update GitHub metrics"
           output_action_filename: github-metrics.svg
