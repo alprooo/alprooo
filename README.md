@@ -1,4 +1,4 @@
-# 👋 Hi, Its Alfian
+# Hi, Its Alfian
 
 [![GitHub followers](https://img.shields.io/github/followers/alprooo?label=Followers&style=social)](https://github.com/alprooo)
 [![GitHub stars](https://img.shields.io/github/stars/alprooo?label=Stars&style=social)](https://github.com/alprooo?tab=stars)
@@ -35,4 +35,3 @@
 
 ## 📫 Let’s connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/alfianrsa)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
