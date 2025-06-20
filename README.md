@@ -1,5 +1,3 @@
-# Hi, Its Alfian
-
 [![GitHub followers](https://img.shields.io/github/followers/alprooo?label=Followers&style=social)](https://github.com/alprooo)
 [![GitHub stars](https://img.shields.io/github/stars/alprooo?label=Stars&style=social)](https://github.com/alprooo?tab=stars)
 [![Profile views](https://komarev.com/ghpvc/?username=alprooo&color=blue)](https://github.com/alprooo)
