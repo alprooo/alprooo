@@ -2,7 +2,7 @@ name: Metrics
 on:
   push:
     branches: [main]
-  You can enable schedule later if you want automatic updates:
+  # You can enable schedule later if you want automatic updates:
   schedule:
     - cron: "0 0 * * *"
 
