@@ -23,11 +23,11 @@
 
 ---
 
-## 📈 GitHub stats
+<!-- ## 📈 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alprooo&show_icons=true&theme=default" alt="alprooo GitHub stats" />
-</p>
+</p> -->
 
 ---
 
