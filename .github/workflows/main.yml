@@ -3,8 +3,8 @@ on:
   push:
     branches: [main]
   # You can enable schedule later if you want automatic updates:
-  # schedule:
-  #   - cron: "0 0 * * *"
+    schedule:
+     - cron: "0 0 * * *"
 
 jobs:
   github-metrics:
