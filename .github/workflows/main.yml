@@ -3,9 +3,10 @@ on:
   push:
     branches: [main]
   # You can enable schedule later if you want automatic updates:
-    schedule:
-     - cron: "0 0 * * *"
-
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows you to run it manually for testing
+  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
